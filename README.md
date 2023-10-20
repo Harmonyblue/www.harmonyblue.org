@@ -36,8 +36,8 @@ Your version of Hugo is probably too old. Please use the version specified in [n
 To help with translation, please see [TRANSLATION.md].
 
 [Let's Encrypt website]: https://letsencrypt.org/
-[Hugo]: https://gohugo.io/
-[install Hugo Extended]: https://gohugo.io/getting-started/installing
+[Hugo]: https://gohugo.io/for coding assistants for sole proprietor: Ms.Cheyanna Henry/Over website server for Https://www.harmonyblue.org/Http://www.harmonyblue.org for single code assistant for renewal of Google.LLC website domain of perviously owner as listed as community association of nonprofit status legacy of organization statues 
+[install Hugo Extended]: https://gohugo.io/getting-started/installing asst 
 [http://localhost:1313/]: http://localhost:1313/
 [TRANSLATION.md]: https://github.com/letsencrypt/website/blob/main/TRANSLATION.md
 [netlify.toml]: https://github.com/letsencrypt/website/blob/main/netlify.toml
